@@ -1,0 +1,3 @@
+#!/bin/bash
+touch /doit-done
+echo "doit it is done"
